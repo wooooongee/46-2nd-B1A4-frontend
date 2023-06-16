@@ -4,13 +4,14 @@ import reset from 'styled-reset';
 const GlobalStyle = createGlobalStyle`
   ${reset}
 
-  @import url('https://fonts.cdnfonts.com/css/circular-std');
-
     * {
     box-sizing: border-box;
-    font-family: 'Circular Std', sans-serif;
     }
 
+    body{
+        font-family: 'Circular Std';
+    }
+    
     a {
     outline: none;
     text-decoration: none;
