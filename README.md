@@ -1,6 +1,6 @@
 # Project SPACE AROUND
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=40&text=WEDIYA&color=gradient)
-#### \*SPAO  웹사이트를 모델링한 프로젝트입니다.
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=40&text=SPACEAROUND&color=gradient)
+#### \*Airbnb  웹사이트를 모델링한 프로젝트입니다.
 ## 👩‍💻 개발 기간 및 인원
 - 개발 기간 : 2023/06/16 ~ 2023/06/30
 - 개발 인원 : 프론트엔드 3명 , 백엔드 1명
