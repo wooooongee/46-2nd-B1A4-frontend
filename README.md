@@ -1,7 +1,7 @@
 # Project SPACE AROUND
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=40&text=SPACEAROUND&color=gradient)
 #### \*Airbnb  웹사이트를 모델링한 프로젝트입니다.
-## 👩‍💻 개발 기간 및 인원
+## 📍 개발 기간 및 인원
 - 개발 기간 : 2023/06/16 ~ 2023/06/30
 - 개발 인원 : 프론트엔드 3명 , 백엔드 1명
   - Product Manager: 김민지(F)
@@ -10,7 +10,7 @@
 - 깃헙 레포지토리
   - [Frontend](https://github.com/wecode-bootcamp-korea/46-2nd-B1A4-frontend/)
   - [Backend](https://github.com/wecode-bootcamp-korea/46-2nd-B1A4-backend)
-## ☕️서비스 소개
+## 📍 서비스 소개
 ### 1. 기획의도
 - 취향에 맞는 감각적인 공간 및 장소를 경험할 수 있는 기회 제공
 - 공간대여 중계 플랫폼
@@ -21,7 +21,7 @@
 - 호스트는 자신들의 이색적인 공간 제공
 - 고객 : 프로필 문화를 담은 MZ세대(게스트) 및 스튜디오를 제공할 수 있는 호스트
   
-## 🏋️‍♀️ 구현 기능
+## 📍 구현 기능
 1. 내비게이션 바 드롭다운 메뉴
 2. 회원가입/로그인 (카카오 소셜 로그인)
 3. 상품 카테고리, 필터, 정렬, 페이지네이션, 검색
@@ -31,7 +31,7 @@
 7. 마이페이지
 8. 예약/ 결제 (토스 결제 API 사용)
 
-## 📚 기술 스택
+## 📍 기술 스택
 
 ### Frontend
 
