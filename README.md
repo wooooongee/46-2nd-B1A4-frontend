@@ -8,8 +8,8 @@
   - Project Manager: 손자현(F)
   - Teammates: 이재웅(F), 팀 (B)
 - 깃헙 레포지토리
-  - [Frontend](https://github.com/wecode-bootcamp-korea/46-1st-Code200-frontend.git)
-  - [Backend](https://github.com/wecode-bootcamp-korea/46-1st-Code200-backend.git)
+  - [Frontend](https://github.com/wecode-bootcamp-korea/46-2nd-B1A4-frontend/)
+  - [Backend](https://github.com/wecode-bootcamp-korea/46-2nd-B1A4-backend)
 ## ☕️서비스 소개
 ### 1. 기획의도
 - 취향에 맞는 감각적인 공간 및 장소를 경험할 수 있는 기회 제공
@@ -54,6 +54,5 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 </div>
