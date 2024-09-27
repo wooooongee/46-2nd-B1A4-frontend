@@ -31,6 +31,19 @@
 7. 마이페이지
 8. 예약/ 결제 (토스 결제 API 사용)
 
+## 📍 완성 모습
+![image](https://github.com/user-attachments/assets/e4191a01-bea5-4fe3-82d2-16c87737a9ca)
+![image (2)](https://github.com/user-attachments/assets/d251571c-12dd-41c2-9dce-c70e3aedd269)
+![image (1)](https://github.com/user-attachments/assets/db7d49bd-3946-4e50-987b-b7c39bfcefcf)
+![image (3)](https://github.com/user-attachments/assets/e4295a16-17e3-4d3f-b372-d6bc2437af44)
+![image (4)](https://github.com/user-attachments/assets/add0dcc6-8197-49e5-9f8d-dd99425fe026)
+![image (5)](https://github.com/user-attachments/assets/6a7a6c20-ecdc-443b-9e48-515e103a672d)
+![image (6)](https://github.com/user-attachments/assets/3128acd0-47d4-4121-8eea-519ac0e991e5)
+![image (7)](https://github.com/user-attachments/assets/6323f4c8-dc41-4081-bc6e-99577bec69dd)
+![image (8)](https://github.com/user-attachments/assets/10ead174-2743-4e6f-8588-213823dd2cba)
+![image (9)](https://github.com/user-attachments/assets/29a4a10f-c439-4a56-b83a-6cfd2fca776e)
+
+
 ## 📍 기술 스택
 
 ### Frontend
